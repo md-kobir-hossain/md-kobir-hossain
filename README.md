@@ -37,13 +37,13 @@ I'm a passionate **web developer** with a love for creating responsive, user-cen
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/md.kobir.hossain.712952" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.kobir.17372@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
