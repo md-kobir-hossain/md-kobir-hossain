@@ -34,15 +34,6 @@ I'm a passionate **web developer** with a love for creating responsive, user-cen
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdKobirHossain&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdKobirHossain&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
